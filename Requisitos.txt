@@ -1,0 +1,7 @@
+
+discord.py
+requests
+colorama
+Python 3.13
+
+
